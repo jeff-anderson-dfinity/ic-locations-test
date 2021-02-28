@@ -1,6 +1,6 @@
 [
   {"key":"at1","latitude":51.514400482177734,"longitude":-0.0940999984741211,"name":"London"},
-  {"key":"bu1","lattitude":44.4268,"longitute":26.1025,"name":"Bucharest"},
+  {"key":"bu1","latitude":44.4268,"longitude":26.1025,"name":"Bucharest"},
   {"key":"pl1","latitude":45.77880096435547,"longitude":-119.52899932861328,"name":"Portland"},
   {"key":"fm1","latitude":45.77880096435547,"longitude":-119.52899932861328,"name":"Fremont"},
   {"key":"sj1","latitude":45.77880096435547,"longitude":-119.52899932861328,"name":"San Jose"},
