@@ -1,4 +1,6 @@
 [
   {"key":"at1","latitude":51.514400482177734,"longitude":-0.0940999984741211,"name":"London"},
-  {"key":"bu1","lattitude":44.4268,"longitute":26.1025,"name":"Bucharest"}
+  {"key":"bu1","lattitude":44.4268,"longitute":26.1025,"name":"Bucharest"},
+  {"key":"pl1","latitude":45.77880096435547,"longitude":-119.52899932861328,"name":"Portland"},
+  {"key":"sp1","latitude":1.2930999994277954,"longitude":103.85600280761719,"name":"Singapore"}
 ]
