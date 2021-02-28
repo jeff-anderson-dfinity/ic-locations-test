@@ -1,5 +1,5 @@
 [
-  {"key":"at1","latitude":33.7490,"longitude":84.3880,"name":"Atlanta"},
+  {"key":"at1","latitude":33.7490,"longitude":-84.3880,"name":"Atlanta"},
   {"key":"bu1","latitude":44.4268,"longitude":26.1025,"name":"Bucharest"},
   {"key":"pl1","latitude":45.5051,"longitude":-122.6750,"name":"Portland"},
   {"key":"fm1","latitude":37.5485,"longitude":-121.9886,"name":"Fremont"},
